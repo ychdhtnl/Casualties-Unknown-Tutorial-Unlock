@@ -1,0 +1,10 @@
+PASS: actual game has one start-course depth check
+PASS: actual game has two menu depth checks
+PASS: locked before patch at depth zero
+PASS: course starts at depth zero after real Harmony patch
+PASS: both menu locks removed; other key remains zero
+PASS: global saved depth reads remain unchanged
+PASS: removing patch restores original locks
+PASS: refuse unexpected method layout
+PASS: game assembly unchanged
+ALL 9 CHECKS PASSED
